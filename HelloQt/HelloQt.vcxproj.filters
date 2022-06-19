@@ -23,7 +23,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hello.cpp">
+    <ClCompile Include="age.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
