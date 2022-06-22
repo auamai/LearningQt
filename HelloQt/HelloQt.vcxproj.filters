@@ -23,7 +23,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="age.cpp">
+    <QtMoc Include="finddialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="finddialog.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

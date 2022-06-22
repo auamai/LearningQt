@@ -11,7 +11,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="age.cpp" />
+    <QtMoc Include="finddialog.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="finddialog.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{53A24584-8D57-4932-9F5A-B5ECD54D96F0}</ProjectGuid>
